@@ -1,0 +1,23 @@
+input:invalid {
+    border: 3px solid red;
+    font: 1em sans-serif;  
+
+}
+ 
+input:valid {
+    border: 2px solid black;
+}
+
+.error {
+    width  : 100%;
+    padding: 0;
+   
+    font-size: 90%;
+    color: white;
+    background-color: #900;
+    border-radius: 0 0 5px 5px;
+   
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  

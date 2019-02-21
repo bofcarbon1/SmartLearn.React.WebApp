@@ -1,0 +1,19 @@
+body, html {
+    height: 100%;
+    color: 'white';
+  }
+.bgProject {
+    /* The image used */
+    background-image: url("../media/Projects.jpg");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;   
+  }
+h2 {
+    color: 'white';
+}  
