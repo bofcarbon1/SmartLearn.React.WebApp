@@ -1,7 +1,7 @@
 Smart Learn 
  
 A web application tool used for training 
- . Trainsers can create courses and lessons
+ . Trainers can create courses and lessons
  . Managers can create projects and tasks
  . Learnrs can enroll in classes and take associated project tasks
 
