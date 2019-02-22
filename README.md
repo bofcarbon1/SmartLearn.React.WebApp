@@ -3,7 +3,7 @@ Smart Learn
 A web application tool used for training 
  . Trainers can create courses and lessons
  . Managers can create projects and tasks
- . Learnrs can enroll in classes and take associated project tasks
+ . Learners can enroll in classes and take associated project tasks
 
 Written in React Native using the following React features
   .  react-youtube (homepage video background)
